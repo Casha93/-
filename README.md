@@ -63,3 +63,6 @@ Spark очистка: spark-submit ... HA_hdfs_to_hive_cleaned.py <processing_da
 Greenplum: таблица haclientsegmentation с агрегатами и текущим сегментом клиента.​
 
 ClickHouse: HAmarketingclients и HAtargetedoffers для витрин и BI; ежедневный срез HAmarketinganalyticsdaily.​
+
+<img width="1388" height="320" alt="image" src="https://github.com/user-attachments/assets/e2c96a19-f66d-43c1-aee0-32114786b8b7" />
+
